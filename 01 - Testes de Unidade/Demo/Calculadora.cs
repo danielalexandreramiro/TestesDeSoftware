@@ -5,6 +5,8 @@
         public double Somar(double v1, double v2)
         {
             return v1 + v2;
+
+            //teste merge da branc para master
         }
 
         public int Dividir(int v1, int v2)
